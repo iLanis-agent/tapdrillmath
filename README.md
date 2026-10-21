@@ -1,6 +1,6 @@
 # Tap Drill Math
 
-Tap drill and thread pitch arithmetic. An M10 x 1.5 thread takes an 8.5 mm tap drill by the diameter-minus-pitch rule.
+Tap drill and thread pitch arithmetic. The tap drill for an M10 x 1.5 thread comes to 8.5 mm by the diameter-minus-pitch rule.
 
 ## What it computes
 
