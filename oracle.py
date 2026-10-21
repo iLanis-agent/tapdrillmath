@@ -23,11 +23,11 @@ def s1000(n):
     return f"{w}.{f:03d}".rstrip("0").rstrip(".")
 
 def metric(d, p):
-    return (f"An M{dec(Fraction(d))} x {dec(Fraction(p))} thread takes an {dec(Fraction(d-p))} mm tap drill "
+    return (f"The tap drill for an M{dec(Fraction(d))} x {dec(Fraction(p))} thread comes to {dec(Fraction(d-p))} mm "
             f"by the diameter-minus-pitch rule.")
 def imperial(d, t):
     p = hu(100000, t)
-    return (f"A {dec3(Fraction(d))}-{dec(Fraction(t))} thread takes a {dec3(Fraction(d-p))} in tap drill "
+    return (f"The tap drill for a {dec3(Fraction(d))}-{dec(Fraction(t))} thread comes to {dec3(Fraction(d-p))} in "
             f"by the diameter-minus-pitch rule.")
 def pitch(t):
     p = hu(254000, t)
