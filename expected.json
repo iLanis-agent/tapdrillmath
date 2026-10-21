@@ -6,7 +6,7 @@
     "10",
     "1.5"
    ],
-   "expect": "An M10 x 1.5 thread takes an 8.5 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M10 x 1.5 thread comes to 8.5 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -14,7 +14,7 @@
     "0.25",
     "20"
    ],
-   "expect": "A 0.25-20 thread takes a 0.2 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 0.25-20 thread comes to 0.2 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "pitch",
@@ -36,7 +36,7 @@
     "148.11",
     "26.84"
    ],
-   "expect": "An M148.11 x 26.84 thread takes an 121.27 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M148.11 x 26.84 thread comes to 121.27 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -44,7 +44,7 @@
     "250.16",
     "41.74"
    ],
-   "expect": "An M250.16 x 41.74 thread takes an 208.42 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M250.16 x 41.74 thread comes to 208.42 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -52,7 +52,7 @@
     "858.23",
     "22.75"
    ],
-   "expect": "An M858.23 x 22.75 thread takes an 835.48 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M858.23 x 22.75 thread comes to 835.48 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -60,7 +60,7 @@
     "456.17",
     "46.23"
    ],
-   "expect": "An M456.17 x 46.23 thread takes an 409.94 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M456.17 x 46.23 thread comes to 409.94 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -68,7 +68,7 @@
     "184.98",
     "93.65"
    ],
-   "expect": "An M184.98 x 93.65 thread takes an 91.33 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M184.98 x 93.65 thread comes to 91.33 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -76,7 +76,7 @@
     "248.82",
     "66.47"
    ],
-   "expect": "An M248.82 x 66.47 thread takes an 182.35 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M248.82 x 66.47 thread comes to 182.35 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -84,7 +84,7 @@
     "52.17",
     "29.08"
    ],
-   "expect": "An M52.17 x 29.08 thread takes an 23.09 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M52.17 x 29.08 thread comes to 23.09 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -92,7 +92,7 @@
     "135.42",
     "54.26"
    ],
-   "expect": "An M135.42 x 54.26 thread takes an 81.16 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M135.42 x 54.26 thread comes to 81.16 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -100,7 +100,7 @@
     "597.13",
     "48.99"
    ],
-   "expect": "An M597.13 x 48.99 thread takes an 548.14 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M597.13 x 48.99 thread comes to 548.14 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -108,7 +108,7 @@
     "415.88",
     "17.68"
    ],
-   "expect": "An M415.88 x 17.68 thread takes an 398.2 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M415.88 x 17.68 thread comes to 398.2 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -116,7 +116,7 @@
     "527.28",
     "19.8"
    ],
-   "expect": "An M527.28 x 19.8 thread takes an 507.48 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M527.28 x 19.8 thread comes to 507.48 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -124,7 +124,7 @@
     "954.9",
     "90.19"
    ],
-   "expect": "An M954.9 x 90.19 thread takes an 864.71 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M954.9 x 90.19 thread comes to 864.71 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -132,7 +132,7 @@
     "282.04",
     "29.05"
    ],
-   "expect": "An M282.04 x 29.05 thread takes an 252.99 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M282.04 x 29.05 thread comes to 252.99 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -140,7 +140,7 @@
     "843.13",
     "32.54"
    ],
-   "expect": "An M843.13 x 32.54 thread takes an 810.59 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M843.13 x 32.54 thread comes to 810.59 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -148,7 +148,7 @@
     "937.22",
     "34.15"
    ],
-   "expect": "An M937.22 x 34.15 thread takes an 903.07 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M937.22 x 34.15 thread comes to 903.07 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -156,7 +156,7 @@
     "670.83",
     "64.98"
    ],
-   "expect": "An M670.83 x 64.98 thread takes an 605.85 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M670.83 x 64.98 thread comes to 605.85 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -164,7 +164,7 @@
     "515.31",
     "73.21"
    ],
-   "expect": "An M515.31 x 73.21 thread takes an 442.1 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M515.31 x 73.21 thread comes to 442.1 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -172,7 +172,7 @@
     "828.73",
     "32.69"
    ],
-   "expect": "An M828.73 x 32.69 thread takes an 796.04 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M828.73 x 32.69 thread comes to 796.04 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -180,7 +180,7 @@
     "870.24",
     "89.39"
    ],
-   "expect": "An M870.24 x 89.39 thread takes an 780.85 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M870.24 x 89.39 thread comes to 780.85 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -188,7 +188,7 @@
     "925.63",
     "58.6"
    ],
-   "expect": "An M925.63 x 58.6 thread takes an 867.03 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M925.63 x 58.6 thread comes to 867.03 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -196,7 +196,7 @@
     "486.6",
     "35.91"
    ],
-   "expect": "An M486.6 x 35.91 thread takes an 450.69 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M486.6 x 35.91 thread comes to 450.69 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -204,7 +204,7 @@
     "364.98",
     "93.2"
    ],
-   "expect": "An M364.98 x 93.2 thread takes an 271.78 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M364.98 x 93.2 thread comes to 271.78 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -212,7 +212,7 @@
     "566.29",
     "64.82"
    ],
-   "expect": "An M566.29 x 64.82 thread takes an 501.47 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M566.29 x 64.82 thread comes to 501.47 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -220,7 +220,7 @@
     "575",
     "83.62"
    ],
-   "expect": "An M575 x 83.62 thread takes an 491.38 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M575 x 83.62 thread comes to 491.38 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "metric",
@@ -228,7 +228,7 @@
     "540.78",
     "30.45"
    ],
-   "expect": "An M540.78 x 30.45 thread takes an 510.33 mm tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for an M540.78 x 30.45 thread comes to 510.33 mm by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -236,7 +236,7 @@
     "91.497",
     "635.15"
    ],
-   "expect": "A 91.497-635.15 thread takes a 91.495 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 91.497-635.15 thread comes to 91.495 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -244,7 +244,7 @@
     "66.114",
     "888.95"
    ],
-   "expect": "A 66.114-888.95 thread takes a 66.113 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 66.114-888.95 thread comes to 66.113 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -252,7 +252,7 @@
     "4.515",
     "696.7"
    ],
-   "expect": "A 4.515-696.7 thread takes a 4.514 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 4.515-696.7 thread comes to 4.514 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -260,7 +260,7 @@
     "83.797",
     "364.2"
    ],
-   "expect": "A 83.797-364.2 thread takes a 83.794 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 83.797-364.2 thread comes to 83.794 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -268,7 +268,7 @@
     "49.983",
     "286.28"
    ],
-   "expect": "A 49.983-286.28 thread takes a 49.98 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 49.983-286.28 thread comes to 49.98 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -276,7 +276,7 @@
     "56.252",
     "4.9"
    ],
-   "expect": "A 56.252-4.9 thread takes a 56.048 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 56.252-4.9 thread comes to 56.048 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -284,7 +284,7 @@
     "11.151",
     "617.22"
    ],
-   "expect": "A 11.151-617.22 thread takes a 11.149 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 11.151-617.22 thread comes to 11.149 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -292,7 +292,7 @@
     "47.071",
     "644.38"
    ],
-   "expect": "A 47.071-644.38 thread takes a 47.069 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 47.071-644.38 thread comes to 47.069 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -300,7 +300,7 @@
     "69.88",
     "217.92"
    ],
-   "expect": "A 69.88-217.92 thread takes a 69.875 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 69.88-217.92 thread comes to 69.875 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -308,7 +308,7 @@
     "55.985",
     "37.38"
    ],
-   "expect": "A 55.985-37.38 thread takes a 55.958 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 55.985-37.38 thread comes to 55.958 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -316,7 +316,7 @@
     "73.669",
     "353.68"
    ],
-   "expect": "A 73.669-353.68 thread takes a 73.666 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 73.669-353.68 thread comes to 73.666 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -324,7 +324,7 @@
     "85.375",
     "109.97"
    ],
-   "expect": "A 85.375-109.97 thread takes a 85.366 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 85.375-109.97 thread comes to 85.366 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -332,7 +332,7 @@
     "86.448",
     "560.87"
    ],
-   "expect": "A 86.448-560.87 thread takes a 86.446 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 86.448-560.87 thread comes to 86.446 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -340,7 +340,7 @@
     "80.378",
     "339.18"
    ],
-   "expect": "A 80.378-339.18 thread takes a 80.375 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 80.378-339.18 thread comes to 80.375 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -348,7 +348,7 @@
     "13.709",
     "296.86"
    ],
-   "expect": "A 13.709-296.86 thread takes a 13.706 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 13.709-296.86 thread comes to 13.706 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -356,7 +356,7 @@
     "21.075",
     "679.55"
    ],
-   "expect": "A 21.075-679.55 thread takes a 21.074 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 21.075-679.55 thread comes to 21.074 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -364,7 +364,7 @@
     "72.785",
     "949.31"
    ],
-   "expect": "A 72.785-949.31 thread takes a 72.784 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 72.785-949.31 thread comes to 72.784 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -372,7 +372,7 @@
     "97.063",
     "286.5"
    ],
-   "expect": "A 97.063-286.5 thread takes a 97.06 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 97.063-286.5 thread comes to 97.06 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -380,7 +380,7 @@
     "97.964",
     "692.31"
    ],
-   "expect": "A 97.964-692.31 thread takes a 97.963 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 97.964-692.31 thread comes to 97.963 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -388,7 +388,7 @@
     "2.746",
     "170.84"
    ],
-   "expect": "A 2.746-170.84 thread takes a 2.74 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 2.746-170.84 thread comes to 2.74 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -396,7 +396,7 @@
     "40.281",
     "610.15"
    ],
-   "expect": "A 40.281-610.15 thread takes a 40.279 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 40.281-610.15 thread comes to 40.279 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -404,7 +404,7 @@
     "71.377",
     "492.45"
    ],
-   "expect": "A 71.377-492.45 thread takes a 71.375 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 71.377-492.45 thread comes to 71.375 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -412,7 +412,7 @@
     "54.222",
     "150.36"
    ],
-   "expect": "A 54.222-150.36 thread takes a 54.215 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 54.222-150.36 thread comes to 54.215 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -420,7 +420,7 @@
     "54.694",
     "795.24"
    ],
-   "expect": "A 54.694-795.24 thread takes a 54.693 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 54.694-795.24 thread comes to 54.693 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "imperial",
@@ -428,7 +428,7 @@
     "93.348",
     "229.13"
    ],
-   "expect": "A 93.348-229.13 thread takes a 93.344 in tap drill by the diameter-minus-pitch rule."
+   "expect": "The tap drill for a 93.348-229.13 thread comes to 93.344 in by the diameter-minus-pitch rule."
   },
   {
    "fn": "pitch",
