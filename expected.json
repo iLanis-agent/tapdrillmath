@@ -1,0 +1,796 @@
+{
+ "cases": [
+  {
+   "fn": "metric",
+   "args": [
+    "10",
+    "1.5"
+   ],
+   "expect": "An M10 x 1.5 thread takes an 8.5 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "0.25",
+    "20"
+   ],
+   "expect": "A 0.25-20 thread takes a 0.2 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "20"
+   ],
+   "expect": "A thread at 20 per inch has a 1.27 mm pitch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "1.27"
+   ],
+   "expect": "A 1.27 mm pitch works out to 20 threads per inch."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "148.11",
+    "26.84"
+   ],
+   "expect": "An M148.11 x 26.84 thread takes an 121.27 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "250.16",
+    "41.74"
+   ],
+   "expect": "An M250.16 x 41.74 thread takes an 208.42 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "858.23",
+    "22.75"
+   ],
+   "expect": "An M858.23 x 22.75 thread takes an 835.48 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "456.17",
+    "46.23"
+   ],
+   "expect": "An M456.17 x 46.23 thread takes an 409.94 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "184.98",
+    "93.65"
+   ],
+   "expect": "An M184.98 x 93.65 thread takes an 91.33 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "248.82",
+    "66.47"
+   ],
+   "expect": "An M248.82 x 66.47 thread takes an 182.35 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "52.17",
+    "29.08"
+   ],
+   "expect": "An M52.17 x 29.08 thread takes an 23.09 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "135.42",
+    "54.26"
+   ],
+   "expect": "An M135.42 x 54.26 thread takes an 81.16 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "597.13",
+    "48.99"
+   ],
+   "expect": "An M597.13 x 48.99 thread takes an 548.14 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "415.88",
+    "17.68"
+   ],
+   "expect": "An M415.88 x 17.68 thread takes an 398.2 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "527.28",
+    "19.8"
+   ],
+   "expect": "An M527.28 x 19.8 thread takes an 507.48 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "954.9",
+    "90.19"
+   ],
+   "expect": "An M954.9 x 90.19 thread takes an 864.71 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "282.04",
+    "29.05"
+   ],
+   "expect": "An M282.04 x 29.05 thread takes an 252.99 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "843.13",
+    "32.54"
+   ],
+   "expect": "An M843.13 x 32.54 thread takes an 810.59 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "937.22",
+    "34.15"
+   ],
+   "expect": "An M937.22 x 34.15 thread takes an 903.07 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "670.83",
+    "64.98"
+   ],
+   "expect": "An M670.83 x 64.98 thread takes an 605.85 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "515.31",
+    "73.21"
+   ],
+   "expect": "An M515.31 x 73.21 thread takes an 442.1 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "828.73",
+    "32.69"
+   ],
+   "expect": "An M828.73 x 32.69 thread takes an 796.04 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "870.24",
+    "89.39"
+   ],
+   "expect": "An M870.24 x 89.39 thread takes an 780.85 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "925.63",
+    "58.6"
+   ],
+   "expect": "An M925.63 x 58.6 thread takes an 867.03 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "486.6",
+    "35.91"
+   ],
+   "expect": "An M486.6 x 35.91 thread takes an 450.69 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "364.98",
+    "93.2"
+   ],
+   "expect": "An M364.98 x 93.2 thread takes an 271.78 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "566.29",
+    "64.82"
+   ],
+   "expect": "An M566.29 x 64.82 thread takes an 501.47 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "575",
+    "83.62"
+   ],
+   "expect": "An M575 x 83.62 thread takes an 491.38 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "metric",
+   "args": [
+    "540.78",
+    "30.45"
+   ],
+   "expect": "An M540.78 x 30.45 thread takes an 510.33 mm tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "91.497",
+    "635.15"
+   ],
+   "expect": "A 91.497-635.15 thread takes a 91.495 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "66.114",
+    "888.95"
+   ],
+   "expect": "A 66.114-888.95 thread takes a 66.113 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "4.515",
+    "696.7"
+   ],
+   "expect": "A 4.515-696.7 thread takes a 4.514 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "83.797",
+    "364.2"
+   ],
+   "expect": "A 83.797-364.2 thread takes a 83.794 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "49.983",
+    "286.28"
+   ],
+   "expect": "A 49.983-286.28 thread takes a 49.98 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "56.252",
+    "4.9"
+   ],
+   "expect": "A 56.252-4.9 thread takes a 56.048 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "11.151",
+    "617.22"
+   ],
+   "expect": "A 11.151-617.22 thread takes a 11.149 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "47.071",
+    "644.38"
+   ],
+   "expect": "A 47.071-644.38 thread takes a 47.069 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "69.88",
+    "217.92"
+   ],
+   "expect": "A 69.88-217.92 thread takes a 69.875 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "55.985",
+    "37.38"
+   ],
+   "expect": "A 55.985-37.38 thread takes a 55.958 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "73.669",
+    "353.68"
+   ],
+   "expect": "A 73.669-353.68 thread takes a 73.666 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "85.375",
+    "109.97"
+   ],
+   "expect": "A 85.375-109.97 thread takes a 85.366 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "86.448",
+    "560.87"
+   ],
+   "expect": "A 86.448-560.87 thread takes a 86.446 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "80.378",
+    "339.18"
+   ],
+   "expect": "A 80.378-339.18 thread takes a 80.375 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "13.709",
+    "296.86"
+   ],
+   "expect": "A 13.709-296.86 thread takes a 13.706 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "21.075",
+    "679.55"
+   ],
+   "expect": "A 21.075-679.55 thread takes a 21.074 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "72.785",
+    "949.31"
+   ],
+   "expect": "A 72.785-949.31 thread takes a 72.784 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "97.063",
+    "286.5"
+   ],
+   "expect": "A 97.063-286.5 thread takes a 97.06 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "97.964",
+    "692.31"
+   ],
+   "expect": "A 97.964-692.31 thread takes a 97.963 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "2.746",
+    "170.84"
+   ],
+   "expect": "A 2.746-170.84 thread takes a 2.74 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "40.281",
+    "610.15"
+   ],
+   "expect": "A 40.281-610.15 thread takes a 40.279 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "71.377",
+    "492.45"
+   ],
+   "expect": "A 71.377-492.45 thread takes a 71.375 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "54.222",
+    "150.36"
+   ],
+   "expect": "A 54.222-150.36 thread takes a 54.215 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "54.694",
+    "795.24"
+   ],
+   "expect": "A 54.694-795.24 thread takes a 54.693 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "imperial",
+   "args": [
+    "93.348",
+    "229.13"
+   ],
+   "expect": "A 93.348-229.13 thread takes a 93.344 in tap drill by the diameter-minus-pitch rule."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "110.29"
+   ],
+   "expect": "A thread at 110.29 per inch has a 0.23 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "942.27"
+   ],
+   "expect": "A thread at 942.27 per inch has a 0.03 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "119.67"
+   ],
+   "expect": "A thread at 119.67 per inch has a 0.21 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "727.11"
+   ],
+   "expect": "A thread at 727.11 per inch has a 0.03 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "284.47"
+   ],
+   "expect": "A thread at 284.47 per inch has a 0.09 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "976.45"
+   ],
+   "expect": "A thread at 976.45 per inch has a 0.03 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "712.85"
+   ],
+   "expect": "A thread at 712.85 per inch has a 0.04 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "842.28"
+   ],
+   "expect": "A thread at 842.28 per inch has a 0.03 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "642.04"
+   ],
+   "expect": "A thread at 642.04 per inch has a 0.04 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "481.76"
+   ],
+   "expect": "A thread at 481.76 per inch has a 0.05 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "719.94"
+   ],
+   "expect": "A thread at 719.94 per inch has a 0.04 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "560.81"
+   ],
+   "expect": "A thread at 560.81 per inch has a 0.05 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "391.86"
+   ],
+   "expect": "A thread at 391.86 per inch has a 0.06 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "369.86"
+   ],
+   "expect": "A thread at 369.86 per inch has a 0.07 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "423.93"
+   ],
+   "expect": "A thread at 423.93 per inch has a 0.06 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "861.32"
+   ],
+   "expect": "A thread at 861.32 per inch has a 0.03 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "281.45"
+   ],
+   "expect": "A thread at 281.45 per inch has a 0.09 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "529.72"
+   ],
+   "expect": "A thread at 529.72 per inch has a 0.05 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "113.47"
+   ],
+   "expect": "A thread at 113.47 per inch has a 0.22 mm pitch."
+  },
+  {
+   "fn": "pitch",
+   "args": [
+    "334.24"
+   ],
+   "expect": "A thread at 334.24 per inch has a 0.08 mm pitch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "17.83"
+   ],
+   "expect": "A 17.83 mm pitch works out to 1.42 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "43.58"
+   ],
+   "expect": "A 43.58 mm pitch works out to 0.58 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "79.75"
+   ],
+   "expect": "A 79.75 mm pitch works out to 0.32 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "30.95"
+   ],
+   "expect": "A 30.95 mm pitch works out to 0.82 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "40.05"
+   ],
+   "expect": "A 40.05 mm pitch works out to 0.63 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "93.63"
+   ],
+   "expect": "A 93.63 mm pitch works out to 0.27 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "80.58"
+   ],
+   "expect": "A 80.58 mm pitch works out to 0.32 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "39.13"
+   ],
+   "expect": "A 39.13 mm pitch works out to 0.65 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "32"
+   ],
+   "expect": "A 32 mm pitch works out to 0.79 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "34.01"
+   ],
+   "expect": "A 34.01 mm pitch works out to 0.75 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "99.76"
+   ],
+   "expect": "A 99.76 mm pitch works out to 0.25 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "54.08"
+   ],
+   "expect": "A 54.08 mm pitch works out to 0.47 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "67.48"
+   ],
+   "expect": "A 67.48 mm pitch works out to 0.38 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "93.04"
+   ],
+   "expect": "A 93.04 mm pitch works out to 0.27 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "82.53"
+   ],
+   "expect": "A 82.53 mm pitch works out to 0.31 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "49.96"
+   ],
+   "expect": "A 49.96 mm pitch works out to 0.51 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "47.3"
+   ],
+   "expect": "A 47.3 mm pitch works out to 0.54 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "8.43"
+   ],
+   "expect": "A 8.43 mm pitch works out to 3.01 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "19.41"
+   ],
+   "expect": "A 19.41 mm pitch works out to 1.31 threads per inch."
+  },
+  {
+   "fn": "tpi",
+   "args": [
+    "59.28"
+   ],
+   "expect": "A 59.28 mm pitch works out to 0.43 threads per inch."
+  }
+ ],
+ "errors": [
+  [
+   "metric",
+   [
+    "0",
+    "1.5"
+   ]
+  ],
+  [
+   "metric",
+   [
+    "10",
+    "0"
+   ]
+  ],
+  [
+   "metric",
+   [
+    "1",
+    "1.5"
+   ]
+  ],
+  [
+   "metric",
+   [
+    "10",
+    "100.01"
+   ]
+  ],
+  [
+   "metric",
+   [
+    "abc",
+    "1.5"
+   ]
+  ],
+  [
+   "imperial",
+   [
+    "0.25",
+    "0"
+   ]
+  ],
+  [
+   "imperial",
+   [
+    "0.0009",
+    "20"
+   ]
+  ],
+  [
+   "imperial",
+   [
+    "0.25",
+    "abc"
+   ]
+  ],
+  [
+   "pitch",
+   [
+    "0"
+   ]
+  ],
+  [
+   "pitch",
+   [
+    "1000.01"
+   ]
+  ],
+  [
+   "tpi",
+   [
+    "0"
+   ]
+  ],
+  [
+   "tpi",
+   [
+    "100.01"
+   ]
+  ]
+ ]
+}
