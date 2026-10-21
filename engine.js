@@ -28,13 +28,13 @@ function _tpi(t) { return _p(t, _TPI, 4, 2, 1, 100000); }
 function metricTruth(dia, pitch) {
   var d = _mm(dia), p = _pitch(pitch);
   if (p >= d) throw new Error(_SMALL);
-  return "An M" + _dec(d, 2) + " x " + _dec(p, 2) + " thread takes an " + _dec(d - p, 2) + " mm tap drill by the diameter-minus-pitch rule.";
+  return "The tap drill for an M" + _dec(d, 2) + " x " + _dec(p, 2) + " thread comes to " + _dec(d - p, 2) + " mm by the diameter-minus-pitch rule.";
 }
 function imperialTruth(dia, tpi) {
   var d = _inch(dia), t = _tpi(tpi);
   var p = _huB(100000n, BigInt(t)); // pitch in thousandths of an inch: 1000 / t(in TPI*100)
   if (p >= d) throw new Error(_SMALL);
-  return "A " + _dec(d, 3) + "-" + _dec(t, 2) + " thread takes a " + _dec(d - p, 3) + " in tap drill by the diameter-minus-pitch rule.";
+  return "The tap drill for a " + _dec(d, 3) + "-" + _dec(t, 2) + " thread comes to " + _dec(d - p, 3) + " in by the diameter-minus-pitch rule.";
 }
 function pitchTruth(tpi) {
   var t = _tpi(tpi);
